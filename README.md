@@ -1,1 +1,3 @@
-#This is my local Repo.
+# Stone Paper Scissors
+
+This is my local repo
