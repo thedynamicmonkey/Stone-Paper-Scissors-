@@ -1,3 +1,4 @@
 # Stone Paper Scissors
 
-This is my local repo
+This is a rock, paper scissors game.
+Author - Nitish shaw
